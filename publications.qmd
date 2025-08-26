@@ -1,0 +1,26 @@
+---
+title: "Publications"
+format: html
+---
+
+## 2025
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [![](media/pubs/Smith%20et%20al%20(2025)%20Conservation%20Biology.jpg){height="400"}](media/pubs/Smith%20et%20al%20(2025)%20Conservation%20Biology.pdf) | Smith JG, ***Lopazanski C***, Free CM, Brun J, Anderson C, Carr MH, Claudet J, Dugan JE, Eurich JG, Francis TB, Gill DA, Hamilton SL, Kaschner K, Mouillot D, Raimondi PT, Starr RM, Ziegler SL, Malone D, Marraffini ML, Parsons-Field A, Spiecker B, Yeager M, Nickols KJ, Caselle JE. (2025) [Conservation benefits of a large marine protected area network that spans multiple ecosystems](https://doi.org/10.1111/cobi.14435). **Conservation Biology**, e14435. |
+| [![](media/pubs/White%20et%20al%20(2025)%20Marine%20Policy.jpg){height="400"}](media/pubs/White%20et%20al%20(2025)%20Marine%20Policy.pdf) | White JW, Hopf J, Arafeh-Dalmau N, Ban N, Bates A, Claudet J, ***Lopazanski C***, Sunday J, Caselle JE (2025) [Measurement, mechanisms, and management recommendations for how MPAs can provide climate resilience](https://doi.org/10.1016/j.marpol.2024.106419). **Marine Policy**, 171, 106419. |
+
+## 2024
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](media/pubs/Yarnall%20et%20al%20(2024)%20Ecological%20Monographs.jpg){height="400"} | Yarnall AY, Yeager LA, ***Lopazanski C***, Poray AK, Morley JW, Hurlbert A, Fodrie FJ (2024) [Habitat area more consistently affects seagrass faunal communities than fragmentation per se](https://doi.org/10.1002/ecm.1629). **Ecological Monographs**, e1629. |
+
+## 2023
+
+|  |  |
+|------------------------------------|------------------------------------|
+| [![](media/pubs/Lopazanski%20et%20al%20(2023)%20Conservation%20Letters.jpg){height="400"}](media/pubs/Lopazanski%20et%20al%20(2023)%20Conservation%20Letters.pdf) | ***Lopazanski C***, Foshay B, Couture JL, Wagner D, Hannah L, Pidgeon E, Bradley D. (2023). [Principles for climate resilience are prevalent in marine protected area management plans](https://doi.org/10.1111/conl.12972). **Conservation Letters**, 16, e12972. |
+| [![](media/pubs/Smith%20et%20al%20(2023)%20Global%20Change%20Biology.jpg){height="400"}](media/pubs/Smith%20et%20al%20(2023)%20Global%20Change%20Biology.pdf) | Smith, JG., Free CM, ***Lopazanski C***, Brun J, Anderson CR, Carr MH, Claudet J, Dugan JE, Eurich JG, Francis TB, Hamilton SL, Mouillot D, Raimondi PT., Starr RM, Ziegler SL., Nickols KJ & Caselle JE. (2023). [A marine protected area network does not confer community structure resilience to a marine heatwave across coastal ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16862). **Global Change Biology**, 29, 5634–5651. |
+| [![](media/pubs/Free%20et%20al%20(2023)%20People%20and%20Nature.jpg){height="400"}](media/pubs/Free%20et%20al%20(2023)%20People%20and%20Nature.pdf) | Free CM, Smith JG, ***Lopazanski C***, Brun J, Francis TB, Eurich JG, Claudet J, Dugan JE, Gill DA, Hamilton SL, Kaschner K, Mouillot D, Ziegler SL, Caselle JE, & Nickols KJ (2023). [If you build it, they will come: Coastal amenities facilitate human engagement in marine protected areas](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10524). **People and Nature**, 5(5), 1592–1609. |
+| [![](media/pubs/Burns et al (2023) Conservation Science and Practice.jpg){height="400"}](media/pubs/Burns et al (2023) Conservation Science and Practice.pdf) | Burns E, ***Lopazanski C***, Flower J, Thomas L, Bradley D, & Lester S. (2023). [Finding harmony in marine protected area design guidelines](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.12946). **Conservation Science and Practice**, 5. |
