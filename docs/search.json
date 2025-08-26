@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Smith JG, Lopazanski C, Free CM, Brun J, Anderson C, Carr MH, Claudet J, Dugan JE, Eurich JG, Francis TB, Gill DA, Hamilton SL, Kaschner K, Mouillot D, Raimondi PT, Starr RM, Ziegler SL, Malone D, Marraffini ML, Parsons-Field A, Spiecker B, Yeager M, Nickols KJ, Caselle JE. (2025) Conservation benefits of a large marine protected area network that spans multiple ecosystems. Conservation Biology, e14435.\n\n\n\nWhite JW, Hopf J, Arafeh-Dalmau N, Ban N, Bates A, Claudet J, Lopazanski C, Sunday J, Caselle JE (2025) Measurement, mechanisms, and management recommendations for how MPAs can provide climate resilience. Marine Policy, 171, 106419."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Smith JG, Lopazanski C, Free CM, Brun J, Anderson C, Carr MH, Claudet J, Dugan JE, Eurich JG, Francis TB, Gill DA, Hamilton SL, Kaschner K, Mouillot D, Raimondi PT, Starr RM, Ziegler SL, Malone D, Marraffini ML, Parsons-Field A, Spiecker B, Yeager M, Nickols KJ, Caselle JE. (2025) Conservation benefits of a large marine protected area network that spans multiple ecosystems. Conservation Biology, e14435.\n\n\n\nWhite JW, Hopf J, Arafeh-Dalmau N, Ban N, Bates A, Claudet J, Lopazanski C, Sunday J, Caselle JE (2025) Measurement, mechanisms, and management recommendations for how MPAs can provide climate resilience. Marine Policy, 171, 106419."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\n\n\n\nYarnall AY, Yeager LA, Lopazanski C, Poray AK, Morley JW, Hurlbert A, Fodrie FJ (2024) Habitat area more consistently affects seagrass faunal communities than fragmentation per se. Ecological Monographs, e1629."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\n\n\n\nLopazanski C, Foshay B, Couture JL, Wagner D, Hannah L, Pidgeon E, Bradley D. (2023). Principles for climate resilience are prevalent in marine protected area management plans. Conservation Letters, 16, e12972.\n\n\n\nSmith, JG., Free CM, Lopazanski C, Brun J, Anderson CR, Carr MH, Claudet J, Dugan JE, Eurich JG, Francis TB, Hamilton SL, Mouillot D, Raimondi PT., Starr RM, Ziegler SL., Nickols KJ & Caselle JE. (2023). A marine protected area network does not confer community structure resilience to a marine heatwave across coastal ecosystems. Global Change Biology, 29, 5634–5651.\n\n\n\nFree CM, Smith JG, Lopazanski C, Brun J, Francis TB, Eurich JG, Claudet J, Dugan JE, Gill DA, Hamilton SL, Kaschner K, Mouillot D, Ziegler SL, Caselle JE, & Nickols KJ (2023). If you build it, they will come: Coastal amenities facilitate human engagement in marine protected areas. People and Nature, 5(5), 1592–1609.\n\n\n\nBurns E, Lopazanski C, Flower J, Thomas L, Bradley D, & Lester S. (2023). Finding harmony in marine protected area design guidelines. Conservation Science and Practice, 5."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Coming soon!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Cori Lopazanski",
     "section": "",
-    "text": "Ocean enthusiast turned fish ecologist and environmental data scientist."
+    "text": "Ocean enthusiast turned fish ecologist (& environmental data scientist)\nI am an applied marine ecologist who uses field experiments, monitoring studies, and quantitative synthesis to evaluate and inform conservation and management\nPhD UCSB Bren School\nBS UNC Chapel Hill"
   }
 ]

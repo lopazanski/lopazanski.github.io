@@ -1,20 +1,23 @@
 project:
   type: website
   output-dir: docs
+  pre-render:
+    - scripts/make_thumbs.R
 
 website:
   title: "Cori Lopazanski"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - publications.qmd
 
 format:
   html:
-    theme: sandstone
+    theme: flatly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
