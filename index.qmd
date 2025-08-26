@@ -12,7 +12,7 @@ about:
     - text: GitHub
       href: https://github.com/lopazanski
     - text: Email
-      href: mailto: lopazanski@ucsb.edu
+      href: mailto:lopazanski@ucsb.edu
 ---
 
 Ocean enthusiast turned fish ecologist and environmental data scientist.
