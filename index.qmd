@@ -1,5 +1,22 @@
 ---
 title: "Cori Lopazanski"
+image: media/cori-photo-website.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 18em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/lopazanski
+    - text: GitHub
+      href: https://github.com/lopazanski
+    - text: Email
+      href: mailto: lopazanski@ucsb.edu
 ---
 
 Ocean enthusiast turned fish ecologist and environmental data scientist.
+
+PhD UCSB Bren School
+
+B.S. UNC Chapel Hill
